@@ -15,5 +15,7 @@ public class StringDemo {
         System.out.println(s2=="ab");//jdk6:true  jdk8:true
         System.out.println(s=="ab");//jdk6:false  jdk8:true
 
+        System.out.println("第一次修改...");
+
     }
 }
